@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/binhlc86/VCarPilot/releases/download/v1.0.2/VCarPilot-1.0.2.apk",
-  "sha256": "d28f0497f548d972ade68004fbacecedcb4707dddf90df0f020474c20fb7e042",
-  "notes": "Bản 1.0.2: tối ưu phản hồi nhanh nút Chạm để nói và chèn khoảng lặng mở kênh âm thanh giúp TTS không bị nuốt từ đầu trên Android Box."
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/binhlc86/VCarPilot/releases/download/v1.0.3/VCarPilot-1.0.3.apk",
+  "sha256": "6971a1526d289ba2a79f496d5edfdd34c770149299e75de44914bcb3622c093c",
+  "notes": "Bản 1.0.3: sửa lỗi bấm mic vô lăng không chào/chờ nghe lệnh (thêm lời chào Em nghe đây, sửa interaction_service.xml Android 10-11, mở rộng intent kích hoạt và chuyển beep sang STREAM_MUSIC)."
 }
