@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/binhlc86/VCarPilot/releases/download/v1.0.1/VCarPilot-1.0.1.apk",
-  "sha256": "4bc5690fd525608c7a64e73187ecb75fb6d64e8591d81c3d2c72b0a9ee5e8fe7",
-  "notes": "Bản 1.0.1: sao lưu & khôi phục các API key đã điền (hiển thị số key trong thông báo) và chẩn đoán bật nút Mic nổi trên Android Box."
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/binhlc86/VCarPilot/releases/download/v1.0.2/VCarPilot-1.0.2.apk",
+  "sha256": "d28f0497f548d972ade68004fbacecedcb4707dddf90df0f020474c20fb7e042",
+  "notes": "Bản 1.0.2: tối ưu phản hồi nhanh nút Chạm để nói và chèn khoảng lặng mở kênh âm thanh giúp TTS không bị nuốt từ đầu trên Android Box."
 }
