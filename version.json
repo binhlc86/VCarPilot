@@ -1,7 +1,7 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.0.5",
-    "apkUrl":  "https://github.com/binhlc86/VCarPilot/releases/download/v1.0.5/VCarPilot-1.0.5.apk",
-    "sha256":  "d0783deaedfe4cf4351e412e093adc587a22cc369bd8365774e91a9201439f0e",
-    "notes":  "Bản 1.0.5: chống treo/đơ STT \u0026 TTS bằng watchdog + tự phục hồi, tự trả kết quả tạm khi mạng chậm, bổ sung bắt phím giọng nói vô lăng qua Trợ năng và nút Học phím vô lăng."
+    "versionCode":  7,
+    "versionName":  "1.0.6",
+    "apkUrl":  "https://github.com/binhlc86/VCarPilot/releases/download/v1.0.6/VCarPilot-1.0.6.apk",
+    "sha256":  "0249b451829f971f9045ad621204e50c300e795a9ea04a175d9d909ccd58a502",
+    "notes":  "Bản 1.0.6 (Hotfix): sửa lỗi crash không mở được app trên màn hình ngang Android Box do thiếu nút btnLearnSteeringKey trong layout-land/activity_main.xml."
 }
