@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/binhlc86/VCarPilot/releases/download/v1.0.3/VCarPilot-1.0.3.apk",
-  "sha256": "6971a1526d289ba2a79f496d5edfdd34c770149299e75de44914bcb3622c093c",
-  "notes": "Bản 1.0.3: sửa lỗi bấm mic vô lăng không chào/chờ nghe lệnh (thêm lời chào Em nghe đây, sửa interaction_service.xml Android 10-11, mở rộng intent kích hoạt và chuyển beep sang STREAM_MUSIC)."
+    "versionCode":  5,
+    "versionName":  "1.0.4",
+    "apkUrl":  "https://github.com/binhlc86/VCarPilot/releases/download/v1.0.4/VCarPilot-1.0.4.apk",
+    "sha256":  "7f89598273f2e7c3eb3742ccb91bdccc32dafefa3523089f16ee2b2ef1b54141",
+    "notes":  "Bản 1.0.4: sửa nút Mic nổi tự bám sát mép màn hình thực tế trên Android Box và tự thu gọn vào mép sau 3 giây."
 }
