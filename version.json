@@ -1,7 +1,7 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.0.6",
-    "apkUrl":  "https://github.com/binhlc86/VCarPilot/releases/download/v1.0.6/VCarPilot-1.0.6.apk",
-    "sha256":  "0249b451829f971f9045ad621204e50c300e795a9ea04a175d9d909ccd58a502",
-    "notes":  "Bản 1.0.6 (Hotfix): sửa lỗi crash không mở được app trên màn hình ngang Android Box do thiếu nút btnLearnSteeringKey trong layout-land/activity_main.xml."
+    "versionCode":  8,
+    "versionName":  "1.0.7",
+    "apkUrl":  "https://github.com/binhlc86/VCarPilot/releases/download/v1.0.7/VCarPilot-1.0.7.apk",
+    "sha256":  "a21d3abb3ffccb53f983f202ce0f035599b0092a65eb864b33048c05773bca1c",
+    "notes":  "Bản 1.0.7: tối ưu toàn diện Carlinkit Android 13 \u0026 Mazda CX-5 2024 — mở mic tức thì tránh kẹt loa/mic CarPlay, nút Mic nổi trừ WindowInsets thanh dock, hỗ trợ núm xoay Mazda (DPAD/Focus), bắt broadcast phím vô lăng, tự lưu đỗ xe khi tắt ACC/dừng xe, fallback ACTION_DIAL gọi BT và chia đôi màn hình Android 12+."
 }
